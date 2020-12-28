@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning projects involving ANN, CNN and Computer Vision Projects
+Machine Learning projects involving ANN, CNN and Computer Vision
